@@ -1,0 +1,9 @@
+D:\институт\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe.config
+D:\институт\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.exe
+D:\институт\KrestikiNoliki\KrestikiNoliki\bin\Debug\KrestikiNoliki.pdb
+D:\институт\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csprojResolveAssemblyReference.cache
+D:\институт\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Form1.resources
+D:\институт\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.Properties.Resources.resources
+D:\институт\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.csproj.GenerateResource.Cache
+D:\институт\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.exe
+D:\институт\KrestikiNoliki\KrestikiNoliki\obj\Debug\KrestikiNoliki.pdb
